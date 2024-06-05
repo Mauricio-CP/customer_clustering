@@ -11,8 +11,8 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - **_RFM_data.csv_** contient les données nettoyées.
 - **_essais.ipynb_** est le notebook Jupyter proposant différentes pistes de modélisation ainsi que le modèle final sélectionné.
 - **_exploration.ipynb_** est le notebook Jupyter présentant les étapes de nettoyage, de feature engineering et d'analyse exploratoire.
-- **_simulation.ipynb_** est le notebook Jupyter définissant le délai de maintenance du modèle final.
 - **_requirements.txt_** contient la liste des packages utilisés pour la réalisation du projet.
+- **_simulation.ipynb_** est le notebook Jupyter définissant le délai de maintenance du modèle final.
 
 ## Installation
 
